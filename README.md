@@ -9,7 +9,7 @@ Ayrıca bu proje bir mantar uzmanı tarafından yorumlanacak ve ardından ekibim
 Projenin en geç 2025 te bitirilmesi planlanmaktadır.
 <br>
 <br>
-[EN]
+[EN] <br>
 Within the scope of "2209-B University Students Research Projects Support Programme for Industry", our project on "Mobile application that classifies mushrooms as consumable or non-consumable with artificial intelligence", which we prepared on behalf of @Burdur Mehmet Akif Ersoy University Bucak Computer and Informatics Faculty in the 2nd semester of 2023, has been entitled to be supported.
 <br>
 In this project, an artificial intelligence model will be produced with kaggle data sets using mobilenetv2-autoencoder, a deep learning algorithm, and this artificial intelligence model will be integrated into a mobile application written in flutter. With this mobile application, the image taken from the user will be interpreted by the artificial intelligence model and this interpretation will be presented to the user.
