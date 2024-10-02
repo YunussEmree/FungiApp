@@ -9,13 +9,13 @@ The project is planned to be completed in 2025 at the latest.
 
 
 # To Do List
-Analyse of requirement (Techs/Algorithms/Datasets) <br>
-Preparing for AI (Learning how to do preprocess/augmentation/training) <br>
-Preparing for Mobile app (Learning flutter) <br>
-Preparing data set <br>
-Training ai model <br>
-Coding mobile app <br>
-Coding web service <br>
-Optimisations  <br>
-Ai model improvements <br>
-Publishing app <br>
+[✔] Analyse of requirement (Techs/Algorithms/Datasets) <br>
+[x] Preparing for AI (Learning how to do preprocess/augmentation/training) <br>
+[x] Preparing for Mobile app (Learning flutter) <br>
+[x] Preparing data set <br>
+[x] Training ai model <br>
+[x] Coding mobile app <br>
+[x] Coding web service <br>
+[x] Optimisations  <br>
+[x] Ai model improvements <br>
+[x] Publishing app <br>
