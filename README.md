@@ -14,7 +14,7 @@ The project is planned to be completed in 2025 at the latest.
 [✔] Preparing data set <br>
 [X] Training ai model <br>
 [X] Coding mobile app <br>
-[X] Coding web service <br>
-[X] Optimisations  <br>
+[✔] Coding web service <br>
+[X] Optimizations  <br>
 [X] Ai model improvements <br>
 [X] Publishing app <br>
